@@ -4,10 +4,9 @@
 
 > "长远来看，我们都已经死了。" -- 约翰·梅纳德·凯恩斯
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue.svg)](https://github.com/Panmax/keynes-skill)
-[![Economics](https://img.shields.io/badge/economics-macroeconomics-orange.svg)](#)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将凯恩斯的宏观经济思维、政府干预逻辑与危机行动哲学蒸馏进你的 Claude Code 工作流。**
 
 </div>
@@ -98,12 +97,12 @@ keynes-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- 自由使用，自由传播。
-
 ---
 
 <div align="center">
-<sub>让凯恩斯的智慧在你的终端中复活。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
