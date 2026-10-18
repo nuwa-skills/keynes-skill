@@ -5,9 +5,9 @@
 > "长远来看，我们都已经死了。" -- 约翰·梅纳德·凯恩斯
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将凯恩斯的宏观经济思维、政府干预逻辑与危机行动哲学蒸馏进你的 Claude Code 工作流。**
+**将凯恩斯的宏观经济思维、政府干预逻辑与危机行动哲学蒸馏进你的 Claude Code 等 Agent Skills 客户端工作流。**
 
 </div>
 
@@ -47,7 +47,7 @@ npx skills add nuwa-skills/keynes-skill
 
 ## 蒸馏了什么
 
-本 skill 将凯恩斯经济学的核心思想蒸馏为 Claude 可用的推理框架：
+本 skill 将凯恩斯经济学的核心思想蒸馏为 AI 可用的推理框架：
 
 - **有效需求原理**：理解经济活动由需求驱动，供给不会自动创造需求（反萨伊定律）
 - **动物精神**：认识到经济决策中非理性因素的关键作用，包括信心、乐观和从众心理
